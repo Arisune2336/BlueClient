@@ -1,0 +1,51 @@
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\Si Şart online oyun.exe.config
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\Si Şart online oyun.exe
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\Si Şart online oyun.pdb
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\Guna.UI.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\Guna.UI2.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\MaterialSkin.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\System.Buffers.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\System.Memory.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\System.Buffers.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\System.Memory.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Lite Client.csprojAssemblyReference.cache
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Form1.resources
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Form2.resources
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Main.resources
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Properties.Resources.resources
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Lite Client.csproj.GenerateResource.cache
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Lite Client.csproj.CoreCompileInputs.cache
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Lite Client.csproj.CopyComplete
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si Şart online oyun.exe
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si Şart online oyun.pdb
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Form3.resources
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Form4.resources
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\WindowsInput.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\WindowsInput.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\CoreLibNet.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\NetLimiter.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\NLog.dll
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nihad\source\repos\Si Şart online oyun\Si Şart online oyun\bin\Debug\NLog.xml
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Lite Client.csprojAssemblyReference.cache
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Form1.resources
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Form2.resources
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Form3.resources
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Form4.resources
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Main.resources
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si_Şart_online_oyun.Properties.Resources.resources
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Lite Client.csproj.GenerateResource.cache
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Lite Client.csproj.CoreCompileInputs.cache
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si Şart online oyun.exe
+D:\qweqwe\Si Şart online oyun\Si Şart online oyun\obj\Debug\Si Şart online oyun.pdb
